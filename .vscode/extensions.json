@@ -54,17 +54,17 @@
     // "styled-components.vscode-styled-components",
     // "sanfilippopablo.react-component-refactor",
     // "angryobject.react-pure-to-class-vscode",
-    // "dsznajder.es7-react-js-snippets",
+    "dsznajder.es7-react-js-snippets",
     // "dsbasko.create-component-helper",
-    // "riazxrazor.html-to-jsx",
+    "riazxrazor.html-to-jsx",
     // "infarkt.css-to-jss",
     // "zenclabs.previewjs",
 
     /* Linter, Formatter -------------------------------------------------------- */
     
     // "stylelint.vscode-stylelint",
-    // "dbaeumer.vscode-eslint",
-    // "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
     // "rebornix.toggle",
     // "rome.rome",
 
@@ -103,7 +103,7 @@
 
     /* Editor ------------------------------------------------------------------- */
 
-    // "brittanychiang.halcyon-vscode",
+    // "brittanychiang.halcyon-vscode",66
     // "mutantdino.resourcemonitor",
     // "PKief.material-icon-theme",
     // "EditorConfig.EditorConfig",

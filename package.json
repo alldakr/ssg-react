@@ -1,4 +1,5 @@
 {
+	"type": "module",
 	"name": "react-fundamentals",
 	"description": "리액트 펀더멘탈 학습 저장소",
 	"version": "0.0.1",
@@ -12,5 +13,9 @@
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
 		"vite": "4.4.11"
+	},
+	"devDependencies": {
+		"eslint": "8.51.0",
+		"eslint-plugin-react": "7.33.2"
 	}
 }

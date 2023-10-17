@@ -1,0 +1,8 @@
+.Button {
+    padding-block: 8px;
+    padding-inline: 4px;
+    border: 2px solid currentColor;
+    color: inherit;
+    background-color: transparent;
+    border-radius: 8px;
+}
